@@ -54,6 +54,7 @@ Outside the technical side, I compete in national-level events like **SOFTEC** a
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" title="PyTorch" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" title="Pandas" />
 </p>
 
 </td>
